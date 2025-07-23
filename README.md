@@ -1,13 +1,65 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+👋 Привет, я Arturs! 🚀
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+Добро пожаловать на мой GitHub-профиль! Я создатель GitHub Readme Generator — инструмента для создания стильных README за пару кликов. 😎 Здесь я кодирую, экспериментирую и делюсь своими идеями! 💡
 
 
 
 
+
+
+
+*Баннер: Кодинг в действии (Unsplash, лицензия CC0)*
+
+🛠 Навыки
+
+
+
+
+
+Языки и технологии: Vue.js 🌈, React ⚛️, JavaScript 🌐, HTML 🖌️, CSS 🎨
+
+
+
+Инструменты: Git 🐙, VS Code 💻, Webpack 📦
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Иконки: DevIcons (GitHub, лицензия MIT)*
+
+🌐 Социальные сети
+
+
+
+*Иконки соцсетей: Simple Icons (GitHub, лицензия CC0)*
+
+🎉 Спасибо за визит!
+
+Если тебе понравился мой профиль или GitHub Readme Generator, поставь ⭐ моим репозиториям и давай создавать крутые проекты вместе! 💪
+
+
+
+
+
+
+
+*Футер: capsule-render (Vercel, лицензия MIT)*
