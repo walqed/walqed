@@ -10,7 +10,7 @@
 
 ## 💡 Quote of the Day
 <p align="center">
-  "In this darkness, not even a faint ray of light can pierce through." — Griffith, Berserk
+  <img src="https://quotes-github-readme.vercel.app/api?quote=In%20this%20darkness,%20not%20even%20a%20faint%20ray%20of%20light%20can%20pierce%20through.&author=Griffith,%20Berserk&type=horizontal&theme=radical" alt="Quote" />
 </p>
 
 ## 💻 Code Matrix
