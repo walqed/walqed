@@ -18,11 +18,11 @@
   </pre>
 </p>
 
-## 🛠️ My Coding Vibe
+## 🚀 Code Cosmos
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Think%20Beyond-blueviolet?style=flat-square&logo=codeigniter" alt="Code Badge"/>
-  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-green?style=flat-square&logo=git" alt="Status Badge"/>
-  <img src="https://img.shields.io/badge/Fuel-Coffee%20%26%20Curiosity-orange?style=flat-square&logo=buymeacoffee" alt="Fuel Badge"/>
+  <img src="https://img.shields.io/badge/Mission-Craft%20Infinite%20Solutions-blueviolet?style=flat-square&logo=codeigniter" alt="Mission Badge"/>
+  <img src="https://img.shields.io/badge/Status-Exploring%20New%20Horizons-green?style=flat-square&logo=git" alt="Status Badge"/>
+  <img src="https://img.shields.io/badge/Spark-Ideas%20%26%20Code-orange?style=flat-square&logo=sparkar" alt="Spark Badge"/>
 </p>
 
 ## 🎉 Спасибо за визит!
