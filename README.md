@@ -1,7 +1,7 @@
-<p align="center" style="background-color: #0d1117; color: #58a6ff; font-family: 'Courier New', monospace; font-size: 18px; padding: 10px 0;">
-  github.com/arturssmirnovs
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=238&lines=github.com%2Farturssmirnovs" alt="Typing SVG" />
 </p>
-*Стилизованный текст в стиле ImMALWARE (статичный эффект)*
+*Анимированный текст в стиле ImMALWARE*
 
 ## 🌐 Социальные сети
 <p align="center">
