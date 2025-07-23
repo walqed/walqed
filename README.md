@@ -4,8 +4,8 @@
 
 ## 🌐 Социальные сети
 <p align="center">
-  <a href="https://arturssmirnovs.github.io"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/github.svg" alt="GitHub" width="30" height="30"/></a>
-  <a href="https://t.me/ВАШ_ТЕЛЕГРАМ"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/telegram.svg" alt="Telegram" width="30" height="30"/></a>
+  <a href="https://github.com/walqed"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/github.svg" alt="GitHub" width="30" height="30"/></a>
+  <a href="https://t.me/weereqqqqe"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/telegram.svg" alt="Telegram" width="30" height="30"/></a>
 </p>
 
 
