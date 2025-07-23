@@ -18,11 +18,15 @@
   </pre>
 </p>
 
-## 🚀 Code Cosmos
+## 🌌 Digital Horizon
 <p align="center">
-  <img src="https://img.shields.io/badge/Mission-Craft%20Infinite%20Solutions-blueviolet?style=flat-square&logo=codeigniter" alt="Mission Badge"/>
-  <img src="https://img.shields.io/badge/Status-Exploring%20New%20Horizons-green?style=flat-square&logo=git" alt="Status Badge"/>
-  <img src="https://img.shields.io/badge/Spark-Ideas%20%26%20Code-orange?style=flat-square&logo=sparkar" alt="Spark Badge"/>
+  <pre>
+    ---===[ Digital Skyline ]===---
+    |  🌠  Active Projects    : Online  |
+    |  💡  New Ideas         : Brewing  |
+    |  🚀  Code Exploration  : In Progress  |
+    -----------------------------
+  </pre>
 </p>
 
 ## 🎉 Спасибо за визит!
