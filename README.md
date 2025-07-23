@@ -8,7 +8,7 @@
   <a href="https://t.me/weereqqqqe"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/telegram.svg" alt="Telegram" width="30" height="30"/></a>
 </p>
 
-## 💡 Quote of the Day
+## 💡 Quote of the century
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?quote=In%20this%20darkness,%20not%20even%20a%20faint%20ray%20of%20light%20can%20pierce%20through.&author=Griffith,%20Berserk&type=horizontal&theme=radical" alt="Quote" />
 </p>
