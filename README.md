@@ -10,8 +10,6 @@
 
 
 ## 🎉 Спасибо за визит!
-Если тебе понравился мой **GitHub Readme Generator**, поставь ⭐ моим репозиториям и давай создавать крутые проекты вместе! 💪
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Code%20with%20Fun!&animation=twinkling&type=waving&color=gradient&height=80" alt="Footer Banner"/>
 </p>
