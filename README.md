@@ -1,4 +1,4 @@
-## 💡 Вдохновение дня
+## 🏆 Достижения
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+  <img src="https://github-profile-trophy.vercel.app/?username=walqed&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
