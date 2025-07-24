@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=238&lines=github.com/walqed" alt="Typing SVG" />
 </p>
 
+<svg viewBox="0 0 24 24">
+    <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z" fill="#4a90e2"/>
+</svg>
+<h3>Интерактивные материалы</h3>
+<p>Доступ к увлекательным материалам для эффективного обучения.</p>
 
 ## 🌐 Social Media
 <p align="center">
