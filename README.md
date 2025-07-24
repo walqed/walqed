@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=238&lines=github.com/ak vibe coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=238&lines=github.com/walqed/ak+vibe+coding" alt="Typing SVG" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=238&lines=ak+vibe+coding" alt="Typing SVG" />
 
 ## 🌐 Social Media
 <p align="center">
