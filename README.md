@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=238&lines=github.com/walqed/vibe coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=238&lines=github.com/walqed" alt="Typing SVG" />
 </p>
 
 ## 🌐 Social Media
